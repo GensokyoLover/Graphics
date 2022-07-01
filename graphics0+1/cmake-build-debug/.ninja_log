@@ -1,0 +1,18 @@
+# ninja log v5
+2	589	1654484730207991997	CMakeFiles/graphics.dir/src/matrix.cpp.o	45795972616d009b
+4	33	1654846980899129026	CMakeFiles/graphics.dir/src/commandlinecheck.cpp.o	8a585b99dcb4c94e
+1	78	1655468681714212323	build.ninja	7566b5755437aabd
+2	421	1655456041318025542	CMakeFiles/graphics.dir/src/main.cpp.o	f45ffbb2ebae3fd1
+2	352	1655456184345850994	CMakeFiles/graphics.dir/src/scene_parser.cpp.o	39212e4ff0a97fed
+2	286	1655455983588184848	CMakeFiles/graphics.dir/src/image.cpp.o	8c9dc0e7e807cd66
+6	31	1654847395252777627	CMakeFiles/graphics.dir/src/orthographic_camera.cpp.o	493af69f92fd8ae
+4	402	1654526944205714223	CMakeFiles/graphics.dir/src/ifs.cpp.o	287fbcd5598dde93
+352	393	1655456184388593719	graphics	aee2aa24f95f2e91
+5	43	1655468686917506489	CMakeFiles/graphics.dir/src/commandlinecheck.cpp.o	3501f7fc458b50d6
+43	70	1655468686949134795	CMakeFiles/graphics.dir/src/orthographic_camera.cpp.o	f30121018b100052
+5	410	1655468687284621077	CMakeFiles/graphics.dir/src/matrix.cpp.o	ecf0cbf059047f48
+5	446	1655468687322440616	CMakeFiles/graphics.dir/src/image.cpp.o	8a14a77652b7a2c5
+7	545	1655468687420380757	CMakeFiles/graphics.dir/src/scene_parser.cpp.o	c42d94f0acc30712
+4	560	1655468687436725412	CMakeFiles/graphics.dir/src/ifs.cpp.o	9bccf333a04b11e
+4	618	1655468687495547853	CMakeFiles/graphics.dir/src/main.cpp.o	a5777b68650099c6
+618	676	1655468687556863787	graphics	aee2aa24f95f2e91

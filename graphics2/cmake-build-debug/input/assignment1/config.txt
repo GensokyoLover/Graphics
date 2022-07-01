@@ -1,0 +1,7 @@
+scene1_1.txt 200 200 -output output1_1.tga -depth 9 10 depth1_1.tga
+scene1_2.txt 200 200 -output output1_2.tga -depth 8 12 depth1_2.tga
+scene1_3.txt 200 200 -output output1_3.tga -depth 8 12 depth1_3.tga
+scene1_4.txt 200 200 -output output1_4.tga -depth 12 17 depth1_4.tga
+scene1_5.txt 200 200 -output output1_5.tga -depth 14.5 19.5 depth1_5.tga
+scene1_6.txt 200 200 -output output1_6.tga -depth 3 7 depth1_6.tga
+scene1_7.txt 200 200 -output output1_7.tga -depth -2 2 depth1_7.tga
